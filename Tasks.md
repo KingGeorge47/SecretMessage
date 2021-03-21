@@ -1,4 +1,4 @@
-## Tasks
+### Tasks
 
 1.
 Use an array method to remove the last string of the array secretMessage.
